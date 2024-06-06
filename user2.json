@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "name":"John Becerra",
+      "user": "johnvanagandr",
+      "aprendiz": false
+    },
+    {
+      "name":"David pulido",
+      "user": "DavidPulidoSarmiento",
+      "aprendiz": false
+    },
+    {
+      "name":"Santiago Jurado",
+      "user": "SantiagoJuradoBeltranADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Laura Ortega",
+      "user": "LauraOrtega21",
+      "aprendiz": false
+    },
+    {
+      "name":"Zannian Mantilla",
+      "user": "ZannianMantilla",
+      "aprendiz": false
+    },
+    {
+      "name":"Thomas Mateo Gamboa Jimenez",
+      "user": "ThomasMateoGamboaJimenezADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"JesusCamilo Galvis Contreras",
+      "user": "JesusCamiloGalvisContrerasADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"ANGIE PAOLA",
+      "user": "ANGIEPAOLA123",
+      "aprendiz": false
+    },
+    {
+      "name":"Juan David Foronda Jaramillo",
+      "user": "JuanDavidForondaJaramilloADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Jeisson Fernando LeonAvila",
+      "user": "JeissonFernandoLeonAvilaADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Laura Daniela Lopez Jimenez",
+      "user": "LauraDanielaLopezJimenezADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Andres Felipe Bayona Ballesteros",
+      "user": "AndresFelipeBayonaBallesterosADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"William Felipe Ojeda Ortiz",
+      "user": "WilliamFelipeOjedaOrtizADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Darly hernandez",
+      "user": "Darlyhernandez06",
+      "aprendiz": false
+    },
+    {
+      "name":"Dieg Andres Hernandez Roa",
+      "user": "DiegAndresHernandezRoaADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Liseth Johana Lizcano Basto",
+      "user": "LisethJohanaLizcanoBastoADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"duvan",
+      "user": "duvan-l",
+      "aprendiz": false
+    },
+    {
+      "name":"Santiago Alexander Figueroa Peñuela",
+      "user": "SantiagoAlexanderFigueroaPenuelaADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Victor Bonilla",
+      "user": "VictorMBonilla2",
+      "aprendiz": false
+    },
+    {
+      "name":"Diana Marcela Chavez Cubides",
+      "user": "DianaMarcelaCHavezCubidesADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Angelica Julieth Agudelo Bautista",
+      "user": "AngelicaJuliethAgudeloBautistaADSO",
+      "aprendiz": false
+    },
+    {
+      "name":"Juan Sebastian Toloza",
+      "user": "Tolozita",
+      "aprendiz": false
+    }
+  ]
+}
+
